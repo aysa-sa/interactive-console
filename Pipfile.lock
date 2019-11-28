@@ -1,0 +1,24 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e607cd9cdd0d916a4fbd94d2f499c3a1cd649d794d3f52bde8d83479c6574480"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": false
+            }
+        ]
+    },
+    "default": {
+        "65b7439": {
+            "file": "https://github.com/aysa-sa/docker-registry-client/archive/2019.11.22.zip"
+        }
+    },
+    "develop": {}
+}
