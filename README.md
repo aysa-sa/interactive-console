@@ -1,4 +1,4 @@
-# AySA / consola Interactiva (v2019.12.1)
+# AySA / Consola Interactiva (v2019.12.1)
 
 Consola interactiva para el despliegue de contenedores (Prototipo).
 
