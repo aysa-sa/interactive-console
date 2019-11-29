@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e607cd9cdd0d916a4fbd94d2f499c3a1cd649d794d3f52bde8d83479c6574480"
+            "sha256": "a82a90c1e499d252d236d0d1c693cb58dfb849334716eb6a83087e1ebf18ec24"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,6 +18,9 @@
     "default": {
         "65b7439": {
             "file": "https://github.com/aysa-sa/docker-registry-client/archive/2019.11.22.zip"
+        },
+        "b30118e": {
+            "file": "https://github.com/aysa-sa/common/archive/2019.11.28.zip"
         }
     },
     "develop": {}

@@ -7,6 +7,7 @@ verify_ssl = false
 
 [packages]
 65b7439 = {file = "https://github.com/aysa-sa/docker-registry-client/archive/2019.11.22.zip"}
+b30118e = {file = "https://github.com/aysa-sa/common/archive/2019.11.28.zip"}
 
 [requires]
 python_version = "3.6"
